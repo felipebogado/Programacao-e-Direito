@@ -1,0 +1,28 @@
+	1.	Python:
+	•	Python é conhecida por sua simplicidade e legibilidade. É uma linguagem de alto nível amplamente utilizada em desenvolvimento web, automação, aprendizado de máquina e ciência de dados.
+	•	Código Python é identado e não requer ponto e vírgula no final das linhas.
+Código mínimo em Python:
+
+print("Olá, mundo!")
+
+
+	2.	JavaScript:
+	•	JavaScript é uma linguagem de programação amplamente usada para desenvolvimento web, permitindo interações dinâmicas no navegador do usuário.
+	•	É tipicamente usado em conjunto com HTML e CSS para criar aplicativos web interativos.
+Código mínimo em JavaScript (no contexto de uma página web):
+
+alert("Olá, mundo!");
+
+
+	3.	C++:
+	•	C++ é uma linguagem de programação de médio a alto nível que é amplamente usada para desenvolvimento de sistemas, jogos, aplicativos de desktop e muito mais.
+	•	É uma linguagem compilada e oferece alto desempenho.
+Código mínimo em C++:
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Olá, mundo!" << endl;
+    return 0;
+}
