@@ -1,0 +1,66 @@
+1) 
+Dominar os conceitos fundamentais da computação é vantajoso ao lidar com o Direito porque a tecnologia está cada vez mais presente em casos jurídicos. Compreender termos como algoritmos, dados, redes e segurança cibernética permite que profissionais do Direito tomem decisões informadas em casos envolvendo crimes digitais, privacidade, propriedade intelectual e questões relacionadas à internet.
+
+
+2) 
+a) Algoritmo: Na computação, um algoritmo é uma sequência de passos definidos e bem estruturados que realiza uma tarefa ou resolve um problema específico. É como uma receita que guia o computador na execução de uma operação.
+
+
+b) Nuvem: Na computação, "nuvem" se refere a serviços de computação, como armazenamento, servidores, banco de dados, redes, software, análise e inteligência, entregues pela internet. Em vez de manter servidores e infraestrutura localmente, os usuários podem acessar recursos computacionais por meio da internet.
+
+
+c) Neutralidade da Rede: É o princípio de que provedores de internet devem tratar todos os dados na rede de forma igual, sem discriminação ou cobranças diferenciadas com base no conteúdo, site ou plataforma.
+
+
+d) Arquivo: Na computação, um arquivo é uma unidade de armazenamento de informações que pode conter dados, texto, programas, imagens ou qualquer tipo de informação. Arquivos são organizados em sistemas de arquivos e podem ser armazenados em dispositivos de armazenamento como discos rígidos ou na nuvem.
+
+
+e) Servidor: Um servidor é um computador ou sistema que fornece serviços, recursos ou dados para outros computadores, chamados de clientes, por meio de uma rede. Servidores podem fornecer diferentes tipos de serviços, como hospedagem de sites, e-mail, armazenamento de arquivos, entre outros.
+
+
+3) A palavra "Internet" engloba diversos componentes interconectados, como máquinas (computadores e dispositivos), cabos (infraestrutura de rede), programas (aplicações e software) e dados (informações transmitidas e armazenadas). Todos esses elementos trabalham juntos para permitir a comunicação e o compartilhamento de informações globalmente.
+
+
+4) Computadores foram inventados para automatizar tarefas complexas, processar dados em larga escala e realizar cálculos precisos de forma rápida e eficiente. Embora precisem ser programados, sua capacidade de lidar com grandes volumes de dados e executar tarefas repetitivas os torna valiosos em várias áreas, incluindo ciência, negócios, saúde e pesquisa.
+
+
+5) Redes neurais artificiais não devem ser a única responsável por decisões importantes, pois sua lógica é baseada em dados passados. A intervenção humana é crucial para contextualizar decisões em situações complexas e éticas. Não existe um algoritmo ou modelo de IA que possa ser o único responsável em casos importantes, pois a supervisão humana é necessária para garantir decisões justas e éticas.
+
+
+6) Um arquivo "binário" contém dados no formato binário, ou seja, representados em código de zeros e uns. Pode incluir texto, mas também pode conter imagens, vídeos ou outros tipos de dados. Um arquivo "de texto" contém apenas texto, geralmente codificado em caracteres alfabéticos e numéricos.
+
+
+7) Um formato de arquivo proprietário é controlado por uma empresa ou organização específica e não é aberto para alterações ou modificações por outros. Um formato de arquivo aberto é um padrão público que pode ser acessado e modificado por qualquer pessoa. No contexto de dados públicos, formatos de arquivo abertos são preferíveis, pois promovem a transparência, a interoperabilidade e a longevidade dos dados.
+
+
+8) Um protocolo de comunicação aberto é um padrão público que define como dispositivos e sistemas devem se comunicar na rede. É acessível a todos e promove a interoperabilidade entre diferentes tecnologias. Um protocolo de comunicação proprietário é controlado por uma entidade específica e geralmente é usado para proteger interesses comerciais. No contexto da liberdade econômica e do desenvolvimento de novas aplicações para a internet, protocolos de comunicação abertos promovem a inovação, permitindo a colaboração e o desenvolvimento de soluções diversificadas.
+
+
+
+
+9) 
+a) Um sistema operacional é um software que gerencia recursos de hardware e fornece serviços para programas de computador. Ele atua como intermediário entre o usuário, os aplicativos e os componentes físicos do computador, facilitando a execução de tarefas e garantindo que os recursos sejam usados eficientemente.
+b) Não, existem vários sistemas operacionais disponíveis, como Windows, macOS, Linux, Android, iOS, entre outros.
+
+
+c) A venda de computadores com um sistema operacional pré-instalado pode ser considerada "venda casada" se não houver opção para o consumidor escolher um sistema operacional diferente. Isso pode limitar a escolha do consumidor, infringindo suas opções de compra.
+
+
+10) LGPD no Brasil:
+a) A Lei Geral de Proteção de Dados (LGPD) no Brasil não possui jurisdição sobre datacenters em países estrangeiros. No entanto, empresas brasileiras que utilizam serviços desses datacenters precisam garantir que os dados dos cidadãos brasileiros sejam tratados de acordo com a LGPD.
+
+
+b) 
+(1) No tocante ao conteúdo em desacordo com suas regras de comunidade, os servidores de aplicação geralmente implementam medidas para identificar e remover conteúdos que violam suas políticas. Isso pode incluir posts com discurso de ódio, violência, assédio, pornografia, ou qualquer tipo de conteúdo que seja considerado inadequado de acordo com as regras da plataforma. Os servidores de aplicação utilizam algoritmos de detecção automática, moderação humana e denúncias da comunidade para identificar e remover esse tipo de conteúdo.
+Quando um usuário publica algo que viola as regras de comunidade, os servidores de aplicação podem remover o conteúdo, aplicar penalidades à conta do usuário, como suspensões temporárias ou banimentos permanentes, e, em alguns casos, cooperar com autoridades para lidar com atividades ilegais.
+(2) Em relação ao conteúdo que destrói reputações e é sabidamente falso, os servidores de aplicação também têm políticas para combater a disseminação de informações falsas e prejudiciais. Muitas plataformas implementam sistemas para verificar a veracidade das informações compartilhadas, especialmente quando se trata de notícias e informações sensíveis. Além disso, eles podem adotar técnicas de verificação de fatos para identificar e sinalizar informações falsas ou enganosas.
+No entanto, a eficácia na detecção e remoção desse tipo de conteúdo pode variar. As plataformas muitas vezes dependem da colaboração da comunidade para relatar informações falsas e utilizam algoritmos de aprendizado de máquina para identificar padrões que sugerem a disseminação de desinformação. Em alguns casos, quando a desinformação é identificada, as plataformas podem rotular o conteúdo como falso, limitar sua visibilidade ou remover a postagem, dependendo da gravidade da violação das políticas da plataforma.
+
+
+
+
+
+
+
+
+
